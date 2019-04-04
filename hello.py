@@ -1,6 +1,6 @@
 #Preparing to commit it into GitHub
-a = 10
-b = 10
+a = 20
+b = 20
 
 c = a + b
 
